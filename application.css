@@ -1,0 +1,29 @@
+body {
+	background: #313131;
+	color: #ffffff;
+}
+
+.container {
+	width: 90%;
+	margin: 10% auto;
+	text-align: center;
+}
+
+.container img {
+	width: 320px;
+}
+
+h1 {
+	font-family: 'Share Tech Mono', sans-serif;
+	font-size: 3em;
+	color: #25de14;
+}
+
+p	{
+	font-family: 'Nunito', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #25de14;
+}
